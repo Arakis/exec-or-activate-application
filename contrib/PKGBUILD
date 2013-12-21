@@ -3,7 +3,7 @@
 pkgname=exec-or-activate-application
 pkgver=1.0.2
 pkgrel=1
-pkgdesc="Boot scripts to provide autologin and starting X-server on boot (once per boot)"
+pkgdesc="Checks, if a specific application is running. If so, the window will focused. If not, the application will be launched."
 url="https://github.com/Arakis/exec-or-activate-application"
 license=("BSD")
 depends=("wmctrl")
